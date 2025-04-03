@@ -1,7 +1,7 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">Fabian Rodriguez</a></h2>
 
 </div>
-<img align="right" width=300px alt="Programming" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdmMnk5OWFhNnN0ZWdzdTZrbHB0cDRsdmRrNm8ybGFmOGlxOTExbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" />
+
 
 ## <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="30px">&nbsp;***About me***
 
@@ -10,8 +10,8 @@ I am a software development student at SENA, currently training in Software Anal
 I am passionate about problem-solving, software architecture, and backend development. I enjoy tackling challenges that require logical thinking and optimization, and I am always looking for opportunities to learn new technologies and refine my coding practices.
 
 Beyond technical skills, I value teamwork, clear communication, and adaptability. I believe that great software is built through collaboration, and I strive to contribute positively to any project I work on. I am also committed to continuous learning, keeping up with the latest industry trends, and expanding my expertise in databases and scalable systems.
+<img align="right" width=300px alt="Programming" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdmMnk5OWFhNnN0ZWdzdTZrbHB0cDRsdmRrNm8ybGFmOGlxOTExbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" />
 
 <div align = "left">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fab1anRodriguez&theme=dark&layout=compact" /></p>!--<img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105"><img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105">--></p>
-  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fab1anRodriguez&theme=dark&layout=compact" /></p>
 </div>
