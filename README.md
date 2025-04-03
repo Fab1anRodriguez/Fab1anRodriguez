@@ -1,8 +1,8 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">Fabian Rodriguez</a></h2>
 
 </div>
-<p align="center" >
- <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+<p align="right" >
+ <img  height="180rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
  </p>
 <!--
 **Fab1anRodriguez/Fab1anRodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
