@@ -17,7 +17,6 @@ Beyond technical skills, I value teamwork, clear communication, and adaptability
 
 <p align="center">
   <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fab1anRodriguez&theme=dark&layout=compact" />
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=Fab1anRodriguez&show_icons=true&theme=dark" />
   <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fab1anRodriguez&theme=dark" />
 </p>
 
@@ -26,19 +25,20 @@ Beyond technical skills, I value teamwork, clear communication, and adaptability
 <h3>🛠 Tech Stack</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
 </p>
 <h3>📚 Frameworks</h3>
 <p>
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Laravel-red?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap" />
 </p>
 
 <h3>💾 Database</h3>
 <p>
-  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
