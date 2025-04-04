@@ -7,12 +7,11 @@
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="45px"> About Me
 </h3>
 
+I am a software development student currently specializing in Software Analysis and Development. I earned my software programming certification in 2023, and since then, I have been continuously improving my skills through personal and collaborative projects.
 
-I am a software development student at SENA, currently training in Software Analysis and Development. I obtained my software programming certification in 2023, and since then, I have been constantly improving my skills and working on personal and collaborative projects.
+I am passionate about problem-solving, software architecture, and full-stack development. I enjoy tackling challenges that require logical thinking and optimization, always seeking opportunities to learn new technologies and refine my coding practices.
 
-I am passionate about problem-solving, software architecture, and backend development. I enjoy tackling challenges that require logical thinking and optimization, and I am always looking for opportunities to learn new technologies and refine my coding practices.
-
-Beyond technical skills, I value teamwork, clear communication, and adaptability. I believe that great software is built through collaboration, and I strive to contribute positively to any project I work on. I am also committed to continuous learning, keeping up with the latest industry trends, and expanding my expertise in databases and scalable systems.
+Beyond technical skills, I value teamwork, clear communication, and adaptability. I believe great software is built through collaboration, and I strive to contribute positively to every project I engage in. Committed to continuous learning, I stay up to date with industry trends while deepening my expertise in databases and scalable systems.
 
 
 <p align="center">
@@ -25,15 +24,15 @@ Beyond technical skills, I value teamwork, clear communication, and adaptability
 <h3>🛠 Tech Stack  <img src="https://i.gifer.com/Z5cP.gif" width="40px"></h3>
 
 <p>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
 </p>
 <h3>📚 Frameworks</h3>
 <p>
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Laravel-red?style=for-the-badge&logo=laravel" />
   <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap" />
 </p>
 
