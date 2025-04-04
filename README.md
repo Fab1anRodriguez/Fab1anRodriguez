@@ -16,8 +16,8 @@ Beyond technical skills, I value teamwork, clear communication, and adaptability
 
 
 <p align="center">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fab1anRodriguez&theme=dark&layout=compact" />
-  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fab1anRodriguez&theme=dark" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fab1anRodriguez&theme=dark&layout=compact" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fab1anRodriguez&theme=dark" />
 </p>
 
 
@@ -41,4 +41,5 @@ Beyond technical skills, I value teamwork, clear communication, and adaptability
 <p>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
 
