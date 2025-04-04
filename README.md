@@ -2,7 +2,7 @@
 
 </div>
 
-<img align="right" width=300px alt="Programming" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdmMnk5OWFhNnN0ZWdzdTZrbHB0cDRsdmRrNm8ybGFmOGlxOTExbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" />
+<img align="right" width=300px alt="Programming" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3V5bDF2b3A0enVtY2FkZmkwbjNpbWdvcmwwb2x0bTEwcmdtNTJyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" />
 <h3>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="30px"> About Me
 </h3>
