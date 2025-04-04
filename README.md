@@ -2,9 +2,9 @@
 
 </div>
 
-<img align="right" width=300px alt="Programming" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3V5bDF2b3A0enVtY2FkZmkwbjNpbWdvcmwwb2x0bTEwcmdtNTJyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" />
+<img align="right" width=300px alt="Programming" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFlcWxkZGt0aGdmYmEyZ3JpajJtNWl3bnFoZW5vb2QybGYxNGJkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nEFaVNgFGGRQdWbmRq/giphy.gif" />
 <h3>
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="30px"> About Me
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="45px"> About Me
 </h3>
 
 
@@ -22,7 +22,7 @@ Beyond technical skills, I value teamwork, clear communication, and adaptability
 
 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Tech Stack  <img src="https://i.gifer.com/Z5cP.gif" width="40px"></h3>
 
 <p>
   <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php" />
