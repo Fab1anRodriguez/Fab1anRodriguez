@@ -27,7 +27,7 @@ Beyond technical skills, I value teamwork, clear communication, and adaptability
 
 <p>
   <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
