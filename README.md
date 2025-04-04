@@ -15,10 +15,10 @@ I am passionate about problem-solving, software architecture, and backend develo
 Beyond technical skills, I value teamwork, clear communication, and adaptability. I believe that great software is built through collaboration, and I strive to contribute positively to any project I work on. I am also committed to continuous learning, keeping up with the latest industry trends, and expanding my expertise in databases and scalable systems.
 
 
-<div align = "left">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fab1anRodriguez&theme=dark&layout=compact" /></p>
-
-📈 GitHub Stats
+<div>
+  <p align = "left">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fab1anRodriguez&theme=dark&layout=compact" />
+  </p>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fab1anRodriguez&show_icons=true&theme=dark" />
 </p>
@@ -31,17 +31,17 @@ Beyond technical skills, I value teamwork, clear communication, and adaptability
 <h3>🛠 Tech Stack</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Code-PHP-blue?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
 </p>
 
 <h3>📚 Frameworks</h3>
 <p>
   <img src="https://img.shields.io/badge/Framework-Laravel-red?style=for-the-badge&logo=laravel" />
-  <img src="https://img.shields.io/badge/Framework-Bootstrap-purple?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap" />
 </p>
 
 <h3>💾 Database</h3>
