@@ -17,12 +17,15 @@ Beyond technical skills, I value teamwork, clear communication, and adaptability
 
 <div align = "left">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fab1anRodriguez&theme=dark&layout=compact" /></p>
-</div>
-## 📈 GitHub Stats
+
+📈 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fab1anRodriguez&show_icons=true&theme=dark" />
+</p>
+<p align="right">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fab1anRodriguez&theme=dark" />
 </p>
+</div>
 
 
 <h3>🛠 Tech Stack</h3>
