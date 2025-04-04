@@ -32,7 +32,6 @@ Beyond technical skills, I value teamwork, clear communication, and adaptability
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
 </p>
-
 <h3>📚 Frameworks</h3>
 <p>
   <img src="https://img.shields.io/badge/Framework-Laravel-red?style=for-the-badge&logo=laravel" />
