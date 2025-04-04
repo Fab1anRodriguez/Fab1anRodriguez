@@ -15,17 +15,12 @@ I am passionate about problem-solving, software architecture, and backend develo
 Beyond technical skills, I value teamwork, clear communication, and adaptability. I believe that great software is built through collaboration, and I strive to contribute positively to any project I work on. I am also committed to continuous learning, keeping up with the latest industry trends, and expanding my expertise in databases and scalable systems.
 
 
-<div>
-  <p align = "left">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fab1anRodriguez&theme=dark&layout=compact" />
-  </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fab1anRodriguez&show_icons=true&theme=dark" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fab1anRodriguez&theme=dark&layout=compact" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=Fab1anRodriguez&show_icons=true&theme=dark" />
+  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fab1anRodriguez&theme=dark" />
 </p>
-<p align="right">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fab1anRodriguez&theme=dark" />
-</p>
-</div>
+
 
 
 <h3>🛠 Tech Stack</h3>
